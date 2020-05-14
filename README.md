@@ -1,6 +1,6 @@
 # Calculator-App
 
-A basic calculator application that addes two number and send it to the browser.
+A basic calculator application that adds two number and send it to the browser.
 
 # Project Outcomes
 <ul>
